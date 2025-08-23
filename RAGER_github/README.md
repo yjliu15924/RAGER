@@ -5,7 +5,7 @@
 
 ## Table of Contents
 1. [Quick start]()
-2. [Preprocess RNAseq data]("https://github.com/yjliu15924/RAGER/blob/main/RAGER_github/Scripts/Preprocess_RNAseq/RNAseq_analysis.md")
+2. [Preprocess RNAseq data](https://github.com/yjliu15924/RAGER/blob/main/RAGER_github/Scripts/Preprocess_RNAseq/RNAseq_analysis.md)
 3. [Preprocess ATACseq data]() 
 4. [Joint analysis]()
 5. [Custom analysis]()
@@ -104,3 +104,4 @@ gunzip -c test_R2.fq.gz > test_2.fastq
 ```
 
 ## **The subsequent analysis steps should be referred to the readme files of each process.**
+
